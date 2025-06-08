@@ -1,7 +1,7 @@
-<p align="center">
-  <div align="center">
+<p align="left">
+  <div align="left">
     <a href="https://github.com/SportSmoker13">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF¢er=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhanesh+Tanak;Full-Stack+Software+Engineer;Distributed+Systems+Specialist;Java+%26+JavaScript+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhanesh+Tanak;Full-Stack+Software+Engineer;Distributed+Systems+Specialist;Java+%26+JavaScript+Developer" alt="Typing SVG" />
     </a>
   </div>
 </p>
